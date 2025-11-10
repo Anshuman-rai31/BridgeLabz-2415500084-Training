@@ -13,7 +13,7 @@ Each **branch** represents a focused learning module, progressing step-by-step t
 
 | 📆 Duration | 🏷️ Branch Name | 📘 Description |
 |-------------|----------------|----------------|
-| Aug 11–13, 2025 | `git-basics` | Set up Git Bash, learned Git commands, and version control essentials. |
+| Aug 11–13, 2025 |  | Set up Git Bash, learned Git commands, and version control essentials. |
 | Aug 18–27, 2025 | `java-core` | Covers Java fundamentals — syntax, data types, loops, arrays, strings, and basic logic building. |
 | Sept 8–24, 2025 | `java-oops` | Focuses on Object-Oriented Programming concepts — classes, inheritance, polymorphism, abstraction, and encapsulation. |
 | Oct 13–15, 2025 | `functional-interface` | Covers Functional Interfaces, Default/Static methods, and Lambda usage. |
