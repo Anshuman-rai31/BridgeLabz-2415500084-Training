@@ -1,114 +1,121 @@
-# 🚀 Bridgelabz-2415500440-Training  
+# 🚀 Bridgelabz-2415500440-Training
+
 ### 🧠 Java Learning Log  
 
-This repository documents my **Java learning journey** during the **Bridgelabz Training Program**.  
-Each branch focuses on specific Java concepts, progressing from the basics to advanced topics like **Functional Interfaces**, **Lambda Expressions**, and **Exception Handling**.  
+Welcome to my **Java Learning Repository** — a chronicle of my journey through the **Bridgelabz Training Program**.  
+This repo documents my weekly progress as I build a solid foundation in Java — from core concepts to advanced programming techniques.
 
 ---
 
-## 🌿 Repository Structure  
+## 🌿 Repository Overview
 
-Each branch represents a separate Java learning module:  
+Each **branch** represents a focused learning module, progressing step-by-step toward mastery.
 
-| Branch Name | Description |
-|--------------|-------------|
-| `java-core` | Covers Java fundamentals — syntax, data types, loops, arrays,strings and basic logic building |
-| `java-oops` | Focuses on Object-Oriented Programming concepts — classes, inheritance, polymorphism, abstraction, encapsulation |
-| `packages-in-java` | Explains how to organize Java code using packages and imports |
-| `wrapper-class` | Demonstrates Wrapper Classes, Autoboxing, and Unboxing |
-| `functional-interface` | Covers Functional Interfaces, Default/Static methods, and Lambda usage |
-| `error-and-exception` | Focuses on Exception Handling, including custom and built-in exceptions |
-| `lambda-expression` | Demonstrates real-world examples using Lambda Expressions and functional-style coding |
+| 🏷️ Branch Name | 📘 Description | 📆 Duration |
+|----------------|----------------|-------------|
+| `java-core` | Covers Java fundamentals — syntax, data types, loops, arrays, strings, and basic logic building. | Aug 18–27, 2025 |
+| `java-oops` | Focuses on Object-Oriented Programming concepts — classes, inheritance, polymorphism, abstraction, and encapsulation. | Sept 8–24, 2025 |
+| `packages-in-java` | Explains how to organize Java code using packages and imports. | Oct 27–29, 2025 |
+| `wrapper-class` | Demonstrates Wrapper Classes, Autoboxing, and Unboxing. | Oct 27–29, 2025 |
+| `functional-interface` | Covers Functional Interfaces, Default/Static methods, and Lambda usage. | Oct 13–15, 2025 |
+| `error-and-exception` | Focuses on Exception Handling — both built-in and custom exceptions. | Oct 27–29, 2025 |
+| `lambda-expression` | Demonstrates real-world examples using Lambda Expressions and functional-style programming. | Oct 13–15, 2025 |
 
 ---
 
-## 📅 Weekly Java Learning Progress  
+## 📅 Weekly Learning Progress
 
-### **🗓️ August 11–13, 2025**  
-- Set up **Git Bash** and learned how to use it for version control  
+### 🗓️ **August 11–13, 2025**
+- Set up **Git Bash** and learned version control basics  
 - Understood the difference between **Git**, **Git Bash**, and **GitHub**  
-- Practiced basic Git commands: `init`, `add`, `commit`, `push`, `clone`, etc.  
-- Learned best practices for using Git and maintaining repositories  
-- Solved basic Java problems to strengthen foundational logic  
+- Practiced essential Git commands (`init`, `add`, `commit`, `push`, `clone`)  
+- Learned repository maintenance best practices  
+- Solved beginner-level Java problems to build logic  
 
 ---
 
-### **🗓️ August 18–20, 2025**  
-- Started learning **Java programming fundamentals**  
-- Studied main **elements of Java** — syntax, keywords, data types, and variables  
-- Understood **Java structure** — `main()` method, statements, and flow  
-- Practiced simple **input/output** programs and got comfortable with the **Java development environment**  
+### 🗓️ **August 18–20, 2025**
+- Started with **Java programming fundamentals**  
+- Explored **syntax, keywords, data types, and variables**  
+- Learned about the **Java program structure** (`main()` method, statements, flow)  
+- Practiced simple input/output programs  
 
 ---
 
-### **🗓️ August 25–27, 2025**  
-- Learned **control flow statements** — `if`, `else`, `switch`, `for`, `while`, `do-while`  
-- Understood **decision-making and iteration** in Java  
-- Studied **arrays (1D and 2D)** — declaration, initialization, traversal  
-- Implemented programs using **nested loops** and **matrix operations**  
+### 🗓️ **August 25–27, 2025**
+- Studied **control flow statements** — `if`, `else`, `switch`, `for`, `while`, `do-while`  
+- Understood **decision-making and iteration**  
+- Learned **arrays (1D & 2D)** — declaration, initialization, traversal  
+- Implemented **matrix operations** using nested loops  
 
 ---
 
-### **🗓️ September 1–3, 2025**  
-- Explored **edge cases** and handling boundary conditions in programs  
-- Learned **methods** — declaration, parameters, and return types  
-- Practiced writing **user-defined methods** for modular coding  
-- Studied **Strings**, their immutability, and manipulation  
-- Learned about **StringBuffer** and **StringBuilder** for efficient string operations  
+### 🗓️ **September 1–3, 2025**
+- Explored **methods** — declaration, parameters, and return types  
+- Practiced **user-defined methods** for modular design  
+- Studied **Strings**, immutability, and manipulation  
+- Learned **StringBuffer** and **StringBuilder** for performance  
 - Compared **String vs StringBuffer vs StringBuilder**  
 
 ---
 
-### **🗓️ September 8–10, 2025**  
-- Introduced to **OOPs concepts** — Encapsulation, Inheritance, Polymorphism, and Abstraction  
+### 🗓️ **September 8–10, 2025**
+- Introduced to **OOPs concepts** — Encapsulation, Inheritance, Polymorphism, Abstraction  
 - Studied **constructors** — default, parameterized, and copy  
-- Understood **instance vs static variables**  
-- Learned **access modifiers** — public, private, protected, default  
-- Practiced **inheritance** and created hierarchical class relationships  
+- Understood **instance vs static** members  
+- Learned about **access modifiers**  
+- Practiced **hierarchical class relationships**  
 
 ---
 
-### **🗓️ September 15–17, 2025**  
-- Studied advanced **OOPs concepts** — Interfaces, Abstract Classes, and Polymorphism  
+### 🗓️ **September 15–17, 2025**
+- Advanced **OOPs** topics — Interfaces, Abstract Classes, Polymorphism  
 - Practiced **Method Overloading** and **Method Overriding**  
-- Understood **Upcasting** and **Downcasting** with examples  
-- Implemented **Abstract Classes and Interfaces** together  
-- Strengthened conceptual understanding with practical code  
+- Understood **Upcasting** and **Downcasting**  
+- Implemented **Abstract Classes + Interfaces** in combined examples  
 
 ---
 
-### **🗓️ September 22–24, 2025**  
-- Solved **real-world Java problems** applying OOP concepts  
-- Implemented **Inheritance**, **Polymorphism**, **Abstraction**, and **Encapsulation**  
-- Focused on writing **structured, reusable, and modular** code  
+### 🗓️ **September 22–24, 2025**
+- Solved **real-world problems** using OOP principles  
+- Wrote **reusable and modular code** applying all OOP concepts  
 
 ---
 
-### **🗓️ October 13–15, 2025**  
+### 🗓️ **October 13–15, 2025**
 - Completed **Interfaces in Java**  
-- Learned to define and implement **Interfaces** effectively  
-- Explored **Functional Interfaces**, **Default/Static Methods**, and **Marker Interfaces**  
-- Introduced to **Lambda Expressions** for concise, modern coding  
+- Learned **Functional Interfaces**, **Default/Static methods**, and **Marker Interfaces**  
+- Introduced to **Lambda Expressions** for modern coding  
 - Practiced using **Lambdas with Interfaces** for optimization  
 
 ---
 
-### **🗓️ October 27–29, 2025**  
-- Studied **Packages** — creation, purpose, and importing classes  
-- Learned **Exception Handling** — `try`, `catch`, `finally`, `throw`, `throws`  
-- Understood **checked vs unchecked exceptions**  
+### 🗓️ **October 27–29, 2025**
+- Learned **Packages** — creation, structure, and imports  
+- Mastered **Exception Handling** — `try`, `catch`, `finally`, `throw`, `throws`  
+- Differentiated **checked vs unchecked** exceptions  
 - Created **Custom Exceptions**  
-- Studied **Wrapper Classes**, **Autoboxing**, and **Unboxing**  
-- Integrated **Packages + Exceptions + Wrapper Classes** in projects  
-
---- 
+- Explored **Wrapper Classes**, **Autoboxing**, and **Unboxing**  
+- Integrated **Packages + Exceptions + Wrappers** in projects  
 
 ---
 
-## 🧰 Tools Used  
-- **Java JDK 25**
-- **IntelliJ IDEA**  
-- **Git & GitHub** for version control
+## 🧰 Tools & Technologies
+
+| Tool | Purpose |
+|------|----------|
+| ☕ **Java JDK 25** | Core programming and execution |
+| 💻 **IntelliJ IDEA** | Primary IDE for development |
+| 🌐 **Git & GitHub** | Version control and collaboration |
+
+---
+
+## 💡 Key Takeaways
+
+- Built a strong foundation in **Java programming**
+- Gained hands-on experience with **OOP**, **Exception Handling**, and **Lambdas**
+- Learned **Git workflow** and repository management
+- Developed **clean, reusable, and modular Java applications**
 
 ---
 
