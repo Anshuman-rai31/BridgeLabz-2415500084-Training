@@ -11,15 +11,16 @@ This repo documents my weekly progress as I build a solid foundation in Java —
 
 Each **branch** represents a focused learning module, progressing step-by-step toward mastery.
 
-| 🏷️ Branch Name | 📘 Description | 📆 Duration |
-|----------------|----------------|-------------|
-| `java-core` | Covers Java fundamentals — syntax, data types, loops, arrays, strings, and basic logic building. | Aug 18–27, 2025 |
-| `java-oops` | Focuses on Object-Oriented Programming concepts — classes, inheritance, polymorphism, abstraction, and encapsulation. | Sept 8–24, 2025 |
-| `packages-in-java` | Explains how to organize Java code using packages and imports. | Oct 27–29, 2025 |
-| `wrapper-class` | Demonstrates Wrapper Classes, Autoboxing, and Unboxing. | Oct 27–29, 2025 |
-| `functional-interface` | Covers Functional Interfaces, Default/Static methods, and Lambda usage. | Oct 13–15, 2025 |
-| `error-and-exception` | Focuses on Exception Handling — both built-in and custom exceptions. | Oct 27–29, 2025 |
-| `lambda-expression` | Demonstrates real-world examples using Lambda Expressions and functional-style programming. | Oct 13–15, 2025 |
+| 📆 Duration | 🏷️ Branch Name | 📘 Description |
+|-------------|----------------|----------------|
+| Aug 11–13, 2025 | `git-basics` | Set up Git Bash, learned Git commands, and version control essentials. |
+| Aug 18–27, 2025 | `java-core` | Covers Java fundamentals — syntax, data types, loops, arrays, strings, and basic logic building. |
+| Sept 8–24, 2025 | `java-oops` | Focuses on Object-Oriented Programming concepts — classes, inheritance, polymorphism, abstraction, and encapsulation. |
+| Oct 13–15, 2025 | `functional-interface` | Covers Functional Interfaces, Default/Static methods, and Lambda usage. |
+| Oct 13–15, 2025 | `lambda-expression` | Demonstrates real-world examples using Lambda Expressions and functional-style programming. |
+| Oct 27–29, 2025 | `packages-in-java` | Explains how to organize Java code using packages and imports. |
+| Oct 27–29, 2025 | `error-and-exception` | Focuses on Exception Handling — both built-in and custom exceptions. |
+| Oct 27–29, 2025 | `wrapper-class` | Demonstrates Wrapper Classes, Autoboxing, and Unboxing. |
 
 ---
 
@@ -118,4 +119,3 @@ Each **branch** represents a focused learning module, progressing step-by-step t
 - Developed **clean, reusable, and modular Java applications**
 
 ---
-
